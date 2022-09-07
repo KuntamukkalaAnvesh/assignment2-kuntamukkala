@@ -41,5 +41,33 @@ The given below table shows that gives name of the cities and locations to visit
 
 > Life is a Sinewave..! -- *AK*
 
+***
+# Code Fencing
 
+> To write a code for Mixin to Prefix Properties using Sass?
 
+[Question](https://stackoverflow.com/questions/10752746/sass-simplify-a-mixin-with-prefixes)
+
+***
+
+```
+
+/// Mixin to prefix a property
+/// @author Kitty Giraudel
+/// @param {String} $property - Property name
+/// @param {*} $value - Property value
+/// @param {List} $prefixes (()) - List of prefixes to print
+@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    #{'-' + $prefix + '-' + $property}: $value;
+  }
+ 
+  // Output standard non-prefixed declaration
+  #{$property}: $value;
+}
+
+```
+
+[Code snippet](https://css-tricks.com/snippets/sass/mixin-prefix-properties/)
+
+*****
