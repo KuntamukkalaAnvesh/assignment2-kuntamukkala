@@ -21,3 +21,15 @@ Founded in 1814 at the cradle of the Asiatic Society of Bengal (at the present b
 * Eden Gardens
 
 [Aboutme](AboutMe.md)
+
+***
+# Best cities to visit in India
+
+The given below table shows that gives name of the cities and locations to visit to visin in India!
+
+| # City Name| # Best Locations | # Time |
+|------------|------------------|--------|
+| Vijayawada |Lord Durga Temple |2 Hours |
+| Hyderabad  |Hyderabad Metro   |1 Hour  |
+| Chennai    |Arunachalam       |7 Hours |
+
