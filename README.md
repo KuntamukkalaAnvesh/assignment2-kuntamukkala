@@ -11,5 +11,11 @@ Founded in 1814 at the cradle of the Asiatic Society of Bengal (at the present b
 1. CCU airport 
 2. It takes 21 minutes to travel from Indian Museum to Kolkata Airport. Approximate driving distance between Indian Museum and Kolkata Airport is 18 kms or 11.2 miles or 9.7 nautical miles . Travel time refers to the time taken if the distance is covered by a car.On the table above you can see driving distance in various units namely kilo metres, miles and nautical miles.
 
+###Unordered list
 
-
+* Victoria Memorial,
+* Howrah Bridge,
+* Dakshineswar Kali Temple
+* Kalighat,
+* Science City,
+* Eden Gardens
